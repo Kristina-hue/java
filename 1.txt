@@ -1,0 +1,9 @@
+public class Main {
+    public static void main(String[] args) {
+      
+      int currentYear = 2022;
+      int friendYear = 1992;
+      
+      System.out.println("Моему Другу " + ( currentYear - friendYear ) + " лет");
+  }
+}
